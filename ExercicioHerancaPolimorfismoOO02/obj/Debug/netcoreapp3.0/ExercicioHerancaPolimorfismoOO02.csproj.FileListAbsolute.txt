@@ -1,0 +1,11 @@
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.exe
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.deps.json
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.runtimeconfig.json
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.runtimeconfig.dev.json
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.dll
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\bin\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.pdb
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\obj\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.csprojAssemblyReference.cache
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\obj\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.AssemblyInfoInputs.cache
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\obj\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.AssemblyInfo.cs
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\obj\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.dll
+D:\Documentos\C#\ExercicioHerancaPolimorfismoOO02\ExercicioHerancaPolimorfismoOO02\obj\Debug\netcoreapp3.0\ExercicioHerancaPolimorfismoOO02.pdb
